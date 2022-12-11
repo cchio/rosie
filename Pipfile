@@ -5,6 +5,10 @@ name = "pypi"
 
 [packages]
 revchatgpt = "*"
+pytest = "*"
+twilio = "*"
+flask = "*"
+python-dotenv = "*"
 
 [dev-packages]
 jupyterlab = "*"
